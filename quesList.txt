@@ -1,0 +1,622 @@
+69
+25733
+INT1306
+F
+Gia tri bieu thuc tien to: /, *, -, 2, 1, +, 3, 4, *, 7, -, 6, 5 la 
+-7
+-1
+1
+7
+C
+17030
+BAS1157
+F
+I'll lend you the money and you ________ pay me back till next month.
+needn't
+mustn't
+need
+must
+A
+12721
+BAS1158
+F
+Co bao nhieu xau nhi phan do dai la 8 hoac bat dau boi 00 hoac ket thuc boi 11?
+112
+128
+64
+124
+A
+12054
+INT1306
+F
+Chi ra kieu du lieu truu tuong
+float
+char
+int
+Mang mot chieu
+D
+11563
+INT1339
+T
+Chu thich nao sau day la chinh xac?
+\*Lap trinh C++
+//Lap trinh C++
+*Lap trinh C++
+\\Lap trinh C++
+B
+10969
+BAS1158
+F
+Cho tap S = {a, b, c}. Hoi so phan tu cua tap luy thua cua tap S la bao nhieu?
+3              
+6                 
+8                
+9
+C
+11823
+BAS1157
+F
+More and more people __________ of food poisoning nowadays.
+exits
+survive
+die
+starve
+C
+12529
+INT1339
+F
+Chi so cua phan tu cuoi trong mang co 29 phan tu la?
+29
+28
+0
+Programmer-defined
+B
+12092
+BAS1158
+F
+Co bao nhieu so le co 3 chu so duoc tao tu tap cac chu so {0,1,2,3,4,5}
+48
+60
+90  
+75
+C
+12693
+BAS1157
+F
+Many plants and endangered species are now endangering of _______. 
+expression
+expulsion
+extinction
+extension
+C
+13959
+BAS1157
+F
+He hurried _________ he wouldn't be late for class.
+since
+as if
+unless
+so that
+D
+13720
+INT1306
+F
+Nut co khoa lon nhat trong cay nhi phan tim kiem khac rong la?
+Nut con ben phai nhat
+Nut con ben trai nhat
+Nut goc
+Tat ca cac nut
+A
+13131
+BAS1158
+F
+Cho n va k la cac songuyen duong voi n≥k. Khi do, cong thuc nao sau day dung?
+C(n+1,k) = C(n,k-1) + C(n,k)
+C(n+1,k) = C(n-1,k) + C(n-1,k-1)
+C(n+1,k) = C(n,k) + C(n-1,k)
+C(n+1,k) = C(n-1,k-1) + C(n,k-1)
+A
+16597
+INT1306
+F
+Do thi G la lien thong khi va chi khi:
+G la do thi co huong
+G la do thi vo huong 
+Co duong di giua hai dinh bat ky thuoc G 
+G co duong di Euler
+C
+14392
+INT1339
+F
+Dau la khai bao dung cua mot mang?
+int arr[10];
+int arr;
+arr{10};
+array arr[10];
+A
+22349
+INT1358
+F
+Cho tap A = {1,2,3,4,5,6,7,8,9}, tap B = {1,2,3,9,10}. Hoi gia tri tap A-B la?
+{1,2,3,9}
+{4,5,6,7,8}
+{10}
+{1,2,3,9,10}
+B
+19196
+INT1339
+T
+Lenh cout trong C++ di kem voi cap dau nao?
+>>
+\\
+||
+<<
+D
+17632
+INT1306
+F
+Nguyen tac lam viec cua ngan xep la: 
+FIFO
+FILO
+LILO
+Cau A va C cung dung.
+B
+17165
+INT1339
+T
+Dau la khai bao dung cua mot con tro?
+int x;
+int &x;
+ptr x;
+int *x;
+D
+21285
+INT1339
+T
+Dau khong phai la kieu du lieu trong ngon ngu lap trinh C/C++?
+float
+real
+int
+double
+B
+19713
+BAS1158
+F
+Co bao nhieu xau nhi phan co do dai la 10?
+1024
+1000
+20
+10
+A
+22113
+INT1306
+F
+Thao tac nao duoi day thuc hien tren ngan xep (stack)?
+Them phan tu vao vi tri bat ky
+Loai bo phan tu tai vi tri bat ky
+Them va loai bo phan tu luon thuc hien tai vi tri dinh (top)
+Them va loai bo phan tu co the thuc hien tai vi tri bat ky
+C
+24224
+BAS1158
+F
+Co bao nhieu so tu nhien co 3 chu so duoc tao tu tap cac chu so {1,3,5,7,9}?
+125
+60
+65
+120
+A
+24174
+BAS1157
+F
+There are many ________ of pollution in our modern world 
+resources
+sources
+foundations
+bases
+B
+23421
+INT1306
+F
+Nut co khoa nho nhat trong cay nhi phan tim kiem khac rong la?
+Nut goc
+Tat ca cac nut
+Nut con ben phai nhat
+Nut con ben trai nhat
+D
+25119
+BAS1157
+F
+There should be no discrimination _______ grounds of sex race or religion
+on	
+at
+of
+in
+A
+24717
+INT1306
+F
+Giai thuat de quy la:
+Trong giai thuat cua no co loi goi toi chinh no nhung voi pham vi nho hon.
+Trong giai thuat cua no co loi goi toi chinh no nhung voi pham vi lon hon.
+Trong giai thuat cua no co loi goi toi mot giai thuat khac da biet ket qua.
+Trong giai thuat cua no co loi goi toi chinh no.
+A
+29303
+INT1339
+T
+Trong cau truc chuong trinh C++ co bao nhieu ham main()?
+1
+2
+3
+4
+A
+27665
+INT1339
+T
+Dau khong phai mot prototype dung? 
+int funct(char x, char y);
+double funct(char x)
+void funct();
+char x();
+B
+27129
+BAS1157
+F
+You would rather _________ talking in class so as not to make your teacher angry. 
+stops
+stopping
+to stop
+stop
+D
+25865
+BAS1157
+F
+A lot of different conservation efforts have been made to________endangered species.
+save
+kills
+make
+do
+A
+25852
+INT1306
+F
+Cay nhi phan khac rong la cay:
+Moi nut (tru nut la) deu co hai nut con
+Tat ca cac nut deu co nut con
+Moi nut co khong qua 2 nut con
+Tat ca cac nut deu co nut cha
+C
+26523
+BAS1157
+F
+Conservation is the protection of the _________ environment.
+nature
+natural
+naturally
+naturalize
+B
+27320
+BAS1157
+F
+_______ is destroying larger areas of tropical rain forests. 
+Disforestation
+Deforestation
+Anti-forestation
+forests
+B
+27211
+INT1306
+F
+Thao tac nao duoi day thuc hien tren hang doi (queue)?
+Them phan tu vao loi sau
+Loai bo phan tu o loi sau
+Them phan tu vao loi truoc
+Them va loai bo phan tu tai vi tri bat ky
+A
+27562
+INT1306
+F
+Nhan to nao la nhan to chinh anh huong den thoi gian tinh cua mot giai thuat?
+May tinh
+Thuat toan duoc su dung
+Chuong trinh dich
+Kich thuoc cua dulieu dau vao cua thuat toan
+D
+28215
+INT1339
+T
+De chu thich tren nhieu dong lenh trong chuong trinh C++, ta dung cap dau nao?
+\\
+>>
+/* va */
+<<
+C
+27853
+BAS1157
+F
+Many people _________ that natural resources will never be used up.
+view
+consider
+believe
+regard
+C
+27712
+INT1306
+F
+Do thi G co n dinh va m canh voi m khac n thi ma tran ke cua G luon co dang:
+la ma tran vuong cap n 
+la ma tran cap nxm
+la ma tran vuong cap m
+la ma tran cap mxn
+A
+27863
+BAS1157
+F
+I've got __________ money to lend you now. I think you can ask Lyn for some. 
+few
+a few
+little
+a little
+D
+29129
+INT1339
+T
+Ham dung de lam tron tu 1.66 len 2.00 la?
+ceil(1.66)
+floor(1.66)
+roundup(1.66)
+roundto(1.66)
+A
+36507
+INT1306
+F
+Moi quan he giua cau truc du lieu va giai thuat co the minh hoa bang dang thuc:
+Chuong trinh = Cau truc du lieu
+Giai thuat + Chuong trinh = Cau truc du lieu
+Cau truc du lieu + Chuong trinh = Giai thuat
+Cau truc du lieu + Giai thuat = Chuong trinh
+D
+33081
+INT1339
+T
+Ket thuc mot dong lenh trong chuong trinh C++, ta su dung ky hieu gi?
+Dau ,
+Dau .
+Dau :
+Dau ;
+D
+32804
+BAS1158
+F
+Co 8 doi bong thi dau vong tron. Hoi phai to chuc bao nhieu tran dau?
+64
+56
+28
+32
+C
+29600
+BAS1157
+F
+He has refused, but he _________ change his mind if you asked him again 
+might
+may
+can
+must
+A
+29495
+BAS1158
+F
+Cho tap A = {2, 3, 4, 5}. Hoi tap nao KHONG bang tap A?
+{4, 3, 5, 2}
+{a | a la so tu nhien >1 va <6}
+{b | b la so thuc sao cho 1<b<36}
+{2, 2, 3, 4, 4, 4, 5}
+C
+30568
+INT1339
+F
+De chu thich tren 1 dong lenh trong chuong trinh C++, ta dung cap dau nao?
+\* va *\
+<<
+//
+>>
+C
+33007
+BAS1157
+F
+Their plans were cancelled _______ of a bad storm. 
+in spite
+because
+instead
+in place
+B
+32878
+INT1306
+F
+Do thi vo huong G co chu trinh Euler khi va chi khi:
+G lien thong va moi dinh thuoc G co bac chan
+Moi dinh thuoc G co bac chan
+G co chu trinh Hamilton
+G la lien thong
+A
+35283
+BAS1157
+F
+There are more than 20 ________ working on the water treatment project. 
+researches
+researcher
+researchers
+research
+C
+34035
+BAS1157
+F
+To tell the truth, Aim frightened ________ ghosts. 
+for
+on
+with
+of
+D
+33769
+BAS1157
+F
+The twins used to play rugby when they were four year old, ________ ?
+don't they
+didn't they
+didn't used they
+did they
+B
+34921
+INT1306
+F
+Dau hieu nao duoi day cho biet danh sach lien ket don L la rong:
+(L->left== NULL)
+(L->infor== NULL)
+(L->next == NULL)
+(L == NULL)
+D
+35643
+INT1339
+F
+Lenh cin trong C++ co tac dung gi?
+La lenh chu thich trong C++
+La lenh khai bao mot bien.
+La stream dau ra chuan trong C++.
+La stream dau vao chuan cua C++.
+D
+35331
+BAS1158
+F
+Co bao nhieu cach tuyen 5 trong so 10 cau thu cua mot doi quan vot de di thi dau tai mot truong khac?
+252
+250
+120
+30240
+A
+36321
+BAS1157
+F
+Pay attention ________ all traffic signs when you are travelling in the street. 
+for
+on
+to
+from
+C
+40715
+INT1339
+F
+Lenh cout trong C++ co tac dung gi?
+La stream dau ra chuan trong C++.
+La lenh chu thich trong C++
+La stream dau vao chuan cua C++.
+La lenh khai bao mot bien.
+A
+39273
+INT1339
+T
+Dau khong phai la cau truc lap trong C/C++?
+for
+do while
+while
+repeat until
+D
+38213
+INT1306
+F
+Dau hieu nao duoi day cho biet hang doi da co thao tac them va loai bo phan tu la rong?
+Loi truoc co gia tri > gia tri cua loi sau
+Loi sau nhan gia tri = 0
+Loi truoc co gia tri < gia tri cua loi sau
+Loi truoc nhan gia tri = 0
+A
+38042
+INT1339
+T
+Cu phap khai bao dung cua lenh if la?
+if dieu kien
+if { dieu kien
+if (dieu kien)
+dieu kien if
+C
+39077
+BAS1158
+F
+Co bao nhieu so tu nhien co 3 chu so khac nhau duoc tao tu tap cac chu so {1,3,5,7,9}?
+30
+60
+90
+120
+B
+40390
+INT1339
+T
+Bat cu chuong trinh C nao deu phai co ham?
+start()
+system()
+main()
+program()
+C
+40326
+BAS1157
+F
+Tell her that she ________ be here by six. I insist on it. 
+may
+must
+ought to
+might
+B
+41617
+BAS1157
+F
+The government _________ the flood victims with food, clothers and money.
+gave
+provided
+offered	
+presented
+B
+40878
+INT1339
+T
+Trong C/C++, toan tu duoc dung de so sanh hai bien la?
+:=
+=
+equal
+==
+D
+40763
+BAS1158
+F
+Cho tap A gom 10 phan tu. Co bao nhieu tap con cua tap A?
+10
+100
+1024
+1000
+C
+41241
+BAS1157
+F
+The raw sewage needs to be ________ treated.
+chemically
+chemical
+chemist
+chemistry
+A
+41700
+INT1306
+F
+Trong danh sach dac, khi them phan tu vao vi tri p trong danh sach ta can phai:
+Luon luon dich chuyen cac phan tu tu p den L.Last ra sau mot vi tri.
+Co the dich chuyen cac phan tu tu p den L.Last ra sau mot vi tri.
+Luon luon dich chuyen cac phan tu tu p+1 den L.Last ra sau mot vi tri.
+Co the dich chuyen cac phan tu tu p+1 den L.Last ra sau mot vi tri.
+B
+42493
+INT1339
+T
+Trong C/C++, toan tu logic AND duoc ki hieu la
+&
+&&
+|
+|&
+B
